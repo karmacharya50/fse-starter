@@ -1,5 +1,6 @@
 {
 	"version": 2,
+	"patterns": [ "call-to-action-2", "two-column-with-image-and-paragraph-description" ],
 	"settings": {
 		"layout": {
 			"contentSize": "840px",
